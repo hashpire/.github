@@ -1,12 +1,28 @@
-## Hi there 👋
+## Hey, this is us 👋
 
-<!--
+**hashpire** is a collaborative space for people to learn, share and discuss all things Web3
 
-**Here are some ideas to get you started:**
+### 🚀 Our Community Goals
+- Provide a comprehensive Web3 Digital Garden (Knowledge Graph)
+- A friendly space for Web3 enthusiasts to network and discuss all things Web3
+- Promote and support the growth and development of the decentralized web
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🙋 Join Us
+Join our community to:
+- Meet friendly like-minded people
+- Knowledge sharing and collaborative learning with peers
+- Participate in community events and activities
+- Recognition and rewards for your contributions
+- Access to exclusive privileges from sponsors and partners
+- Have a voice in our community and so much more!
+
+### 👇 Getting Started
+- TODO
+
+### 🌈 Useful Resources
+- Contribution Guidelines
+- TODO
+
+### 🍿 Fun facts
+
+
